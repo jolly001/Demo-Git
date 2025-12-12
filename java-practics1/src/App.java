@@ -30,11 +30,7 @@ public class App {
 
     }
 
-<<<<<<< HEAD
      public void Car2(){
-=======
-    public void Car2(){
->>>>>>> 9e0a899dca80bcdb0cf59e8c99bdd8d9baf2ae4c
         System.out.println(brand + "engine started");
         System.out.println(brand + "engine started1");
         System.out.println(brand + "engine started2");
